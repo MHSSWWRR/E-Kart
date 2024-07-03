@@ -121,8 +121,15 @@
               <label for="Cash On Delivery  " class="ml-2 text-gray-700">Cash On Delivery</label>
             </div>
             <div class="flex items-center mb-4">
-              <input type="radio" id="UPI" name="paymentMethod" value="UPI" class="form-radio">
-              <label for="UPI" class="ml-2 text-gray-700">UPI</label>
+              <input type="radio" id="Dana" name="paymentMethod" value="Dana" class="form-radio">
+              <label for="Dana" class="ml-2 text-gray-700">Dana</label>
+            </div>
+            <div class="flex items-center mb-4">
+              <input type="radio" id="ShopeePay" name="paymentMethod" value="ShopeePay" class="form-radio">
+              <label for="ShopeePay" class="ml-2 text-gray-700">ShopeePay</label>
+            </div><div class="flex items-center mb-4">
+              <input type="radio" id="GoPay" name="paymentMethod" value="GoPay" class="form-radio">
+              <label for="GoPay" class="ml-2 text-gray-700">GoPay</label>
             </div>
 
 
